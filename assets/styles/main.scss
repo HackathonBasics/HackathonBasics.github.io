@@ -14,4 +14,8 @@ main {
   background: url(/assets/images/background.jpg) center center / cover no-repeat fixed;
 }
 
+.medium-link {
+  text-decoration: underline;
+}
+
 @import "materialize";
