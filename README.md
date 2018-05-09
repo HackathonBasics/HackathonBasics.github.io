@@ -12,4 +12,4 @@ Si vous souhaitez prévisualiser le site en local sur votre machine :
 
 Pour toute contribution, les Pull Requests sont les bienvenues ;-)
 
-![Join the chat at https://gitter.im/HackathonBasics/General](https://badges.gitter.im/HackathonBasics/General.svg)
+[![Join the chat at https://gitter.im/HackathonBasics/General](https://badges.gitter.im/HackathonBasics/General.svg)](https://gitter.im/HackathonBasics/General)
